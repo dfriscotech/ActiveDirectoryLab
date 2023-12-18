@@ -1,9 +1,9 @@
-<h1>Active Directory Home Lab</h1>
+<h1>Implementing a SOC and Honeynet in Azure</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-In this lab we’re going to walk through how to create an Active Directory home lab environment using Oracle Virtualbox. Configuring and running this lab will definetlry help develop your understanding of how active directory and windows networking works.
+In this lab we’re going to walk through how to create a Honeynet in Azure.
 <br />
 
 
